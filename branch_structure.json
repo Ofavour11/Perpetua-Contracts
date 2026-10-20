@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/258-265-269-270-sdk-demo-hardening",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/258-265-269-270-sdk-demo-hardening": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/258-265-269-270-sdk-demo-hardening",
+    "origin"
+  ]
+}
